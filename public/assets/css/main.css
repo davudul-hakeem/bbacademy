@@ -289,7 +289,9 @@ label {
     padding-bottom: 100px;
   }
 }
-
+.img-six{
+  display: none;
+}
 /*--
 section-title
 ----------------------------------------*/
